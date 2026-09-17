@@ -92,7 +92,7 @@ This project can support:
 - E-waste resource recovery research
 ## Author
 
-# Arvind Kumar Yadav
+## Arvind Kumar Yadav
 ```text
 
 M.Tech – E-waste Resource Engineering and Management
