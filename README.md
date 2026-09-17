@@ -51,17 +51,22 @@ The project follows the following workflow:
 - Deep Learning
 - Computer Vision
 ## Project Structure
+
+
 CNN-E-Waste-Image-Classification/
 │
 ├── E-waste image classification.ipynb
 ├── Data_Exploration.ipynb
 ├── EWaste_CNN_Model.keras
+│
 ├── modified-dataset/
 │   ├── train/
 │   ├── val/
 │   └── test/
+│
 ├── README.md
 └── .gitignore
+
 ## Files
 # E-waste image classification.ipynb
 
