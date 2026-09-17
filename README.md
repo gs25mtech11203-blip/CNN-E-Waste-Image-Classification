@@ -20,13 +20,16 @@ The dataset consists of images representing different categories of e-waste comp
 
 The dataset is divided into three subsets:
 
+```text
 modified-dataset/
 ├── train/
 ├── val/
 └── test/
-- train/ - Images used for model training.
-- val/ - Images used for validation during training.
-- test/ - Unseen images used for final model evaluation.
+```
+
+- `train/` - Images used for model training.
+- `val/` - Images used for validation during training.
+- `test/` - Unseen images used for final model evaluation.
 
 ## Methodology
 
@@ -39,7 +42,9 @@ The project follows the following workflow:
 5. Model validation
 6. Evaluation on unseen test images
 7. Visualization and interpretation of results
+
 ## Technologies and Tools
+
 - Python
 - Jupyter Notebook
 - TensorFlow
@@ -50,9 +55,10 @@ The project follows the following workflow:
 - Convolutional Neural Networks (CNN)
 - Deep Learning
 - Computer Vision
+
 ## Project Structure
 
-
+```text
 CNN-E-Waste-Image-Classification/
 │
 ├── E-waste image classification.ipynb
@@ -66,26 +72,30 @@ CNN-E-Waste-Image-Classification/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## Files
-# E-waste image classification.ipynb
+
+### E-waste image classification.ipynb
 
 Main Jupyter Notebook containing the CNN model development, training, validation, evaluation, and visualization.
 
-# Data_Exploration.ipynb
+### Data_Exploration.ipynb
 
 Notebook containing exploratory data analysis and dataset preprocessing.
 
-# EWaste_CNN_Model.keras
+### EWaste_CNN_Model.keras
 
 Saved trained CNN model.
 
 ## How to Run
+
 1. Clone or download this repository.
 2. Install the required Python libraries.
 3. Open the Jupyter Notebook files in Jupyter Notebook, JupyterLab, or Google Colab.
 4. Ensure that the dataset is available in the expected directory structure.
 5. Run the notebook cells sequentially.
+
 ## Applications
 
 This project can support:
@@ -95,10 +105,10 @@ This project can support:
 - Computer vision based waste management
 - Automated recycling systems
 - E-waste resource recovery research
+
 ## Author
 
-## Arvind Kumar Yadav
-```text
+**Arvind Kumar Yadav**
 
 M.Tech – E-waste Resource Engineering and Management
 
